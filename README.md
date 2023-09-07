@@ -26,7 +26,7 @@
             <a href="https://github.com/youngkimi">
               <img src="https://github.com/youngkimi.png" width="100">
               <br />
-              <b>김영섭</b>
+              <b>+A金영섭</b>
             <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=youngkimi" widt="100px">
             </a>
         </td>
@@ -67,6 +67,10 @@
 |2주차|(필수) [Magnetic(D3)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE&problemTitle=magnetic&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1),[가랏! RC카(D2)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq) + (선택) 자율 문제 풀이, 알고리즘 학습|
 |3주차|(필수)[프로그래머스 고득점 kit 완전탐색 유형](https://school.programmers.co.kr/learn/courses/30/parts/12230) + (선택) 기타 플랫폼 완전탐색 관련 문제|
 |4주차|(필수)[프로그래머스 고득점 kit 정렬 유형](https://school.programmers.co.kr/learn/courses/30/parts/12230) + (선택) 이번주 본인 목표(노션업로드)에 적합한 문제풀이|
+|5주차|(필수) 본인이 부족한 파트 파트 문제풀기|
+|6주차|(필수) 백준 N과 M 시리즈, 백트래킹 관련 문제|
+|7주차| (필수) DFS, BFS 문제 MM 에 공유하고 최소 4문제 풀기 |
+
 
 </div>
 
@@ -165,12 +169,4 @@ git fetch upstream
 git merge upstream/main
 git push origin main 
 ```
-
-
-## 📌 꿀팁
-
-- CLI로 타자치는게 귀찮다면...
-> https://www.gitkraken.com/
-
-GUI로 커밋하기 쌉가능
 
