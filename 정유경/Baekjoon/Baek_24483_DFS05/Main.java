@@ -41,7 +41,7 @@ public class Main {
 		
 		//정점 집합을 오름차순으로 정렬
 		for (int i = 1; i <= N; i++) {
-			Collections.sort(edges[i], Collections.reverseOrder());
+			Collections.sort(edges[i]);
 		}
 		
 		for (int i = 0; i <= N; i++) {
@@ -63,8 +63,6 @@ public class Main {
 	} //main
 	
 	public static void DFS(int cur, int d) {
-		if(edges[cur].size() == 0) return;
-		
 		depth[cur] = d;
 		order[cur] = idx;
 		
