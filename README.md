@@ -70,12 +70,10 @@
 |5주차|(필수) 본인이 부족한 파트 파트 문제풀기|
 |6주차|(필수) 백준 N과 M 시리즈, 백트래킹 관련 문제|
 |7주차| (필수) DFS, BFS 문제 MM 에 공유하고 최소 4문제 풀기 |
+|8주차| (삼성 A형 기출문제집)[https://www.acmicpc.net/workbook/view/2771], (SW역량테스트 준비 문제집)[https://www.acmicpc.net/workbook/view/2063] 선택 문제풀이|
 
 
 </div>
-
-
-
 
 ## 📌 스터디 그라운드 룰
 
