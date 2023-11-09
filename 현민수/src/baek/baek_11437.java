@@ -11,7 +11,7 @@ public class Main {
 	static ArrayList<Integer>[] tree;
 	static boolean[] visit;
 	public static void main(String[] args) throws Exception {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		   BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
 		StringBuilder sb = new StringBuilder();
 		N = Integer.parseInt(br.readLine());
